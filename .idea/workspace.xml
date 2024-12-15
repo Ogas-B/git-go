@@ -5,19 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faddaffc-139c-44a5-806c-415ef948079a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git-go.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-go/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/img/bg-masthead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/img/bg-showcase-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/img/bg-showcase-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/img/bg-showcase-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/img/testimonials-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/img/testimonials-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/assets/img/testimonials-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/static/App/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/templates/App/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/settings/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/settings/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/settings/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_bootstrap/settings/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-go" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -42,11 +79,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "git-widget-placeholder": "Parte-1",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/OgasB/PycharmProjects/git-go/django_bootstrap/starter"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\OgasB\PycharmProjects\git-go\django_bootstrap\starter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\OgasB\PycharmProjects\git-go\django_bootstrap\App\static\App" />
+      <recent name="C:\Users\OgasB\PycharmProjects\git-go\django_bootstrap\App\templates\App" />
+      <recent name="C:\Users\OgasB\PycharmProjects\git-go" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,5 +113,39 @@
       <updated>1734127051424</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Parte-1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django_bootstrap/App/views.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
